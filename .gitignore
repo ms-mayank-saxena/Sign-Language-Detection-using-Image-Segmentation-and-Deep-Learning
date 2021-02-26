@@ -8,3 +8,6 @@ train_images
 train_labels
 val_images
 val_labels
+full_img.jpg
+model.png
+confusion_matrix.png
